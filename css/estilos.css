@@ -6,3 +6,8 @@ body {
 #titulo {
     background-color: blue;
 }
+
+#cabecera {
+    background-color: aquamarine;
+    font-family: monospace;
+}
